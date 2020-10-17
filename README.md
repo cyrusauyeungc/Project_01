@@ -22,7 +22,18 @@ Our project is to uncover patterns in global driving/traffic incidents. We will 
 
 ## Datasets to be used: 
 
-“https://www.who.int/data/gho”
+https://www.who.int/data/gho
+
+https://stats.oecd.org/
+- "Road injury accidents  : Road casualties
+(under Transport > Transport Safety > Road Injury Accidents"
+
+- "Road injury accidents  : Passenger Transport
+Showing the Passenger KM, millions
+(under Transport > Transport Measurement > Passenger Tranpsort > Overview> Select ""Road Passenger Transport"" on the header ""Variable"""
+
+https://apps.who.int/gho/data/node.main.A989?lang=en
+- WHO global road safety datasets 
 
 ## Rough Breakdown of Tasks:
 
