@@ -21,12 +21,19 @@ Research Questions to Answer:
 
 
 Datasets to be used: 
+
 “https://www.who.int/data/gho”
 
 Rough Breakdown of Tasks:
+
 •	Countries
+
 •	Population
+
 •	Income group
+
 •	Age Group
+
 •	Sex Group
+
 •	Current road type user group
