@@ -1,12 +1,14 @@
 # Project_01
 
 Project title: 
-“GLOBAL STATUS REPORT ON ROAD SAFETY” 	
+“GLOBAL STATUS REPORT ON ROAD SAFETY” 
+
 Team Members:
 •	Cyrus Au Yeing
 •	John Bingley
 •	Seranica Williamson
 •	Parastoo Razavi
+	
 	
 Project Description/Outline: 
 Our project is to uncover patterns in global driving/traffic incidents. We will be examining relationships between types of travel, basic metrics of travel, population, country economic and political status; and others as the data allows. 
