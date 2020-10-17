@@ -1,50 +1,44 @@
-# Project_01
+# GLOBAL STATUS REPORT ON ROAD SAFETY
 
-## Project title: 
-“GLOBAL STATUS REPORT ON ROAD SAFETY” 
+#### **DESCRIPTION / OUTLINE**
 
-## Team Members:
-•	Cyrus Au Yeing
-•	John Bingley
-•	Seranica Williamson
-•	Parastoo Razavi
-	
-	
-## Project Description/Outline: 
-Our project is to uncover patterns in global driving/traffic incidents. We will be examining relationships between types of travel, basic metrics of travel, population, country economic and political status; and others as the data allows. 
+This project aims to uncover patterns in global driving/traffic incidents. It will be examining relationships between types of travel, basic metrics of travel, population, country economic and political status; and others as the data allows.
 
 
-## Research Questions to Answer: 
-1. Does higher education/income make you safer on road? 
-2. Does speed/drink–driving laws effect on road safety?
-3. Does seat belt laws effect on road the number of road traffic deaths?
+#### **QUESTIONS REPORT AIMS TO ANSWER**
+- Does higher education/income make you safer on the road? 
+- Do speed/drink–driving laws have an effect on road safety?
+- Do seat belt laws effect the number of road traffic deaths?
 
 
-## Datasets to be used: 
-
-https://www.who.int/data/gho
-
-https://stats.oecd.org/
+#### **DATASETS USED**
+- https://www.who.int/data/gho
+- https://stats.oecd.org/
 - "Road injury accidents  : Road casualties
 (under Transport > Transport Safety > Road Injury Accidents"
-
 - "Road injury accidents  : Passenger Transport
 Showing the Passenger KM, millions
 (under Transport > Transport Measurement > Passenger Tranpsort > Overview> Select ""Road Passenger Transport"" on the header ""Variable"""
-
-https://apps.who.int/gho/data/node.main.A989?lang=en
+- https://apps.who.int/gho/data/node.main.A989?lang=en
 - WHO global road safety datasets 
 
-## Rough Breakdown of Tasks:
 
-•	Countries
+#### **MEMBERS**
+- Cyrus Au Yeing [@github/cyrusauyeungc](https://github.com/cyrusauyeungc)
+- John Bingley [@github/JB-DA](https://github.com/JB-DA)
+- Seranica Williamson [@github/seranica](https://github.com/seranica)
+- Parastoo Razavi [@github/parastoorazavi](https://github.com/parastoorazavi)
 
-•	Population
 
-•	Income group
-
-•	Age Group
-
-•	Sex Group
-
-•	Current road type user group
+#### **TASKS**
+- [x] Readme
+- [x] Directory structure
+- [ ] &nbsp;
+- [ ] List of countries
+- [ ] Population of countries
+- [ ] Income group
+- [ ] Age group
+- [ ] Gender
+- [ ] Type of vehicle
+- [ ] &nbsp;
+- [ ] Collate & clean data
