@@ -6,9 +6,17 @@ This project aims to uncover patterns in global driving/traffic incidents. It wi
 
 
 #### **QUESTIONS REPORT AIMS TO ANSWER**
-- Does higher education/income make you safer on the road? 
-- Do speed/drink–driving laws have an effect on road safety?
-- Do seat belt laws effect the number of road traffic deaths?
+- Does higher income make you safer on the road?
+- Does differences in the types of road users affected on the rates of deaths?
+- How many countries reducing distracted driving by banned mobile phone while driving?
+-	How much mobile phone laws improve safety in roads?
+-	By knowing that children are very vulnerable, does child restraints laws protect them in accident?
+-	How much wearing seatbelt reduce the risk of death among drivers?
+-	How seatbelt can protect other occupants?
+-	How many countries control death rate by driving by using motorcycle helmet?
+-	Does drink–driving laws have an effect on road safety?
+-	Countries try to increase their road safety by managing speed, which speed limits were successful?
+
 
 
 #### **DATASETS USED**
