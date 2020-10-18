@@ -2,7 +2,7 @@
 
 #### **DESCRIPTION / OUTLINE**
 
-This project aims to uncover patterns in global driving/traffic incidents. It will be examining relationships between types of travel, basic metrics of travel, population, country economic and political status; and others as the data allows.
+This project aims to uncover patterns in global driving/traffic incidents. It will be examining relationships between types of travel, basic metrics of travel, population, country economic & political status, mortality & injury rates; and others as the data allows.
 
 
 #### **QUESTIONS REPORT AIMS TO ANSWER**
@@ -42,5 +42,4 @@ Showing the Passenger KM, millions
 - [ ] Type of vehicle
 - [ ] &nbsp;
 - [ ] Collate & clean data
-
 
