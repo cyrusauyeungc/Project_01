@@ -1,4 +1,4 @@
-# GLOBAL STATUS REPORT ON ROAD SAFETY
+# GLOBAL STATUS REPORT ON ROAD SAFETY 
 
 #### **DESCRIPTION / OUTLINE**
 
@@ -34,7 +34,7 @@ Showing the Passenger KM, millions
 #### **MEMBERS**
 - Cyrus Au Yeing [@github/cyrusauyeungc](https://github.com/cyrusauyeungc)
 - John Bingley [@github/JB-DA](https://github.com/JB-DA)
-- Seranica Williamson [@github/seranica](https://github.com/seranica)
+- Seranica Williamson [@github/seranica](https://github.com/seranica) :smile_cat: 
 - Parastoo Razavi [@github/parastoorazavi](https://github.com/parastoorazavi)
 
 
