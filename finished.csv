@@ -1,0 +1,79 @@
+,country,limit,num limit,definition,law,deaths
+0,Slovakia,0 g/dl,0.0,Yes,Yes,6.1
+1,Hungary,0 g/dl,0.0,Yes,Yes,7.1
+2,United Arab Emirates,<= 0.01 g/dl,0.01,Yes,Yes,1.8
+3,Cuba,<=0.01 g/dl,0.01,Yes,Yes,33.3
+4,Estonia,<0.02 g/dl,0.02,Yes,Yes,10.0
+5,Morocco,<0.02 g/dl,0.02,Yes,Yes,3.7
+6,Ukraine,<= 0.02 g/dl,0.02,Yes,Yes,6.7
+7,Norway,<= 0.02 g/dl,0.02,Yes,Yes,13.0
+8,Poland,< 0.02 g/dl,0.02,Yes,Yes,12.7
+9,Sweden,< 0.02 g/dl,0.02,Yes,Yes,24.0
+10,China,<0.02 g/dl,0.02,Yes,Yes,0.4
+11,Ecuador,<= 0.03 g/dl,0.03,Yes,Yes,6.8
+12,Republic of Moldova,<= 0.03 g/dl,0.03,Yes,Yes,9.4
+13,Russian Federation,<=0.03 g/dl,0.03,Yes,Yes,22.9
+14,Georgia,<= 0.03 g/dl,0.03,Yes,Yes,9.0
+15,India,<= 0.03 g/dl,0.03,Yes,Yes,4.1
+16,Japan,<0.03 g/dl,0.03,Yes,Yes,5.6
+17,Serbia,<=0.03 g/dl,0.03,Yes,Yes,17.0
+18,Czechia,<=0.03 g/dl,0.03,Yes,Yes,9.5
+19,Mali,<0.03 g/dl,0.03,Yes,Yes,0.4
+20,Bosnia and Herzegovina,<=0.03  g/dl,0.03,Yes,Yes,20.8
+21,Chile,<= 0.03 g/dl,0.03,Yes,Yes,13.0
+22,Tonga,<0.03 g/dl,0.03,Yes,Yes,77.0
+23,Belarus,<0.03 g/dl,0.03,Yes,Yes,14.3
+24,Tunisia,<0.03 g/dl,0.03,Yes,Yes,1.6
+25,Lithuania,<=0.04 g/dl,0.04,Yes,Yes,9.6
+26,Canada,0.04 - 0.08  g/dl,0.04,Yes,Yes,29.6
+27,Mongolia,<0.04 g/dl,0.04,Yes,Yes,25.0
+28,Armenia,<=0.04 g/dl,0.04,Yes,Yes,1.9
+29,Mauritius,<=0.05 g/dl,0.05,Yes,Yes,23.6
+30,Turkey,<=0.05 g/dl,0.05,Yes,Yes,3.3
+31,New Zealand,<=0.05 g/dl,0.05,Yes,Yes,27.0
+32,Nigeria,<=0.05 g/dl,0.05,Yes,Yes,0.5
+33,South Africa,<0.05 g/dl,0.05,Yes,Yes,57.5
+34,Slovenia,<= 0.05 g/dl,0.05,Yes,Yes,32.0
+35,Portugal,< 0.05 g/dl,0.05,Yes,Yes,29.2
+36,Republic of Korea,<0.05 g/dl,0.05,Yes,Yes,11.2
+37,Thailand,<= 0.05 g/dl,0.05,Yes,Yes,14.1
+38,Switzerland,< 0.05 g/dl,0.05,Yes,Yes,13.0
+39,North Macedonia,<=0.05 g/dl,0.05,Yes,Yes,1.4
+40,Spain,<= 0.05 g/dl,0.05,Yes,Yes,17.0
+41,Peru,<=0.05 g/dl,0.05,Yes,Yes,9.3
+42,Albania,<=0.05 g/dl,0.05,Yes,Yes,5.2
+43,Kazakhstan,<0.05 g/dl,0.05,Yes,Yes,0.3
+44,Luxembourg,< 0.05 g/dl,0.05,Yes,Yes,14.0
+45,Costa Rica,<= 0.05 g/dl,0.05,Yes,Yes,31.2
+46,Croatia,<=0.05 g/dl,0.05,Yes,Yes,23.8
+47,Cyprus,<=0.05 g/dl,0.05,Yes,Yes,17.4
+48,Botswana,<=0.05  g/dl,0.05,Yes,Yes,3.8
+49,Bolivia (Plurinational State of),<=0.05  g/dl,0.05,Yes,Yes,6.4
+50,Austria,<0.05 g/dl,0.05,Yes,Yes,5.1
+51,Finland,<0.05 g/dl,0.05,Yes,Yes,24.0
+52,France,<0.05 g/dl,0.05,Yes,Yes,29.0
+53,Germany,<0.05 g/dl,0.05,Yes,Yes,7.0
+54,Bulgaria,<=0.05  g/dl,0.05,Yes,Yes,0.9
+55,Greece,< 0.05 g/dl,0.05,Yes,Yes,25.3
+56,Iceland,<0.05 g/dl,0.05,Yes,Yes,14.0
+57,Ireland,<= 0.05 g/dl,0.05,Yes,Yes,38.5
+58,Israel,<= 0.05 g/dl,0.05,Yes,Yes,3.6
+59,Italy,<=0.05 g/dl,0.05,Yes,Yes,20.0
+60,Argentina,<=0.05 g/dl,0.05,Yes,Yes,17.0
+61,Latvia,<= 0.05 g/dl,0.05,Yes,Yes,10.8
+62,Australia,< 0.05 g/dl,0.05,Yes,Yes,17.0
+63,Cambodia,<0.05  g/dl,0.05,Yes,Yes,13.0
+64,Honduras,<0.07 g/dl,0.07,Yes,Yes,6.8
+65,Namibia,<=0.079 g/dl,0.079,Yes,Yes,3.9
+66,Uganda,<=0.08 g/dl,0.08,Yes,Yes,0.8
+67,United Kingdom of Great Britain and Northern Ireland,<= 0.08 g/dl,0.08,Yes,Yes,13.0
+68,Fiji,<=0.08 g/dl,0.08,Yes,Yes,5.0
+69,Ethiopia,<= 0.08 g/dl,0.08,Yes,Yes,4.3
+70,Singapore,<=0.08 g/dl,0.08,Yes,Yes,6.4
+71,Malaysia,<=0.08 g/dl,0.08,Yes,Yes,0.1
+72,Romania,<= 0.08 g/dl,0.08,Yes,Yes,5.6
+73,Guyana,<= 0.08 g/dl,0.08,Yes,Yes,17.0
+74,United Republic of Tanzania,<=0.08 g/dl,0.08,Yes,Yes,1.0
+75,Lesotho,<=0.08 g/dl,0.08,Yes,Yes,60.0
+76,Cook Islands,<=0.08 g/dl,0.08,Yes,Yes,39.0
+77,United States of America,<=0.08 g/dl,0.08,Yes,Yes,29.0
