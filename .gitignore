@@ -1,5 +1,4 @@
-.ipynb_checkpoints**
-.ipynb_checkpoints/**
-notebooks/.DS_Store
+*.ipynb_checkpoints
+*.DS_Store
+*-checkpoint.ipynb
 Untitled.ipynb
-.DS_Store
