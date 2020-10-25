@@ -42,14 +42,15 @@ Showing the Passenger KM, millions
 - [x] Readme
 - [x] Directory structure
 - [ ] &nbsp;
-- [ ] List of countries
-- [ ] Population of countries
-- [ ] Income group
-- [ ] Age group
-- [ ] Gender
-- [ ] Type of vehicle
+- [x] List of countries
+- [x] Population of countries
+- [x] Income group
+- [x] Type of vehicle
 - [ ] &nbsp;
-- [ ] Collate & clean data
+- [x] Collate & clean data
+- [x] Visualise
+- [ ] Combine Code
+- [ ] Cleaning Explanation
+- [ ] Limitations
+- [ ] Finish Powerpoint
 
-
-testing update by Cyrus in Branch Cyrus
