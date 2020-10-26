@@ -1,8 +1,8 @@
-# GLOBAL STATUS REPORT ON ROAD SAFETY
+# GLOBAL STATUS REPORT ON ROAD SAFETY 
 
 #### **DESCRIPTION / OUTLINE**
 
-This project aims to uncover patterns in global driving/traffic incidents. It will be examining relationships between types of travel, basic metrics of travel, population, country economic and political status; and others as the data allows.
+This project aims to uncover patterns in global driving/traffic incidents. It will be examining relationships between types of travel, basic metrics of travel, population, country economic & political status, mortality & injury rates; and others as the data allows.
 
 
 #### **QUESTIONS REPORT AIMS TO ANSWER**
@@ -34,7 +34,7 @@ Showing the Passenger KM, millions
 #### **MEMBERS**
 - Cyrus Au Yeing [@github/cyrusauyeungc](https://github.com/cyrusauyeungc)
 - John Bingley [@github/JB-DA](https://github.com/JB-DA)
-- Seranica Williamson [@github/seranica](https://github.com/seranica)
+- Seranica Williamson [@github/seranica](https://github.com/seranica) :smile_cat: 
 - Parastoo Razavi [@github/parastoorazavi](https://github.com/parastoorazavi)
 
 
@@ -42,13 +42,15 @@ Showing the Passenger KM, millions
 - [x] Readme
 - [x] Directory structure
 - [ ] &nbsp;
-- [ ] List of countries
-- [ ] Population of countries
-- [ ] Income group
-- [ ] Age group
-- [ ] Gender
-- [ ] Type of vehicle
+- [x] List of countries
+- [x] Population of countries
+- [x] Income group
+- [x] Type of vehicle
 - [ ] &nbsp;
-- [ ] Collate & clean data
-
+- [x] Collate & clean data
+- [x] Visualise
+- [ ] Combine Code
+- [ ] Cleaning Explanation
+- [ ] Limitations
+- [ ] Finish Powerpoint
 
